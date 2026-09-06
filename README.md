@@ -1,4 +1,4 @@
-# Hi there, I'm Dhamith Gunawardhana 👋
+# Hi there, I'm Dhamith Gunawardhana
 
 🎓 I'm an undergraduate student specializing in **Data Science** at the National Institute of Business Management (NIBM).  
 🚀 Aspiring **Machine Learning Engineer** with a passion for solving real-world problems using data.  
