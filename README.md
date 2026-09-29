@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C6FF&height=230&section=header&text=Dhamith%20Gunawardhana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Aspiring%20Data%20Engineer%20%26%20ML%20Engineer&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhamith99/dhamith99/main/assets/header.svg" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+decisions+%F0%9F%93%8A;Big+Data+%7C+Machine+Learning+%7C+Data+Engineering;Hadoop+%2B+Spark+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Looking+for+a+Data+Engineering+internship+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -144,22 +144,15 @@ fun_facts:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhamith99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhamith99&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhamith99&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamith99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhamith99&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhamith99&theme=tokyonight" height="165"/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhamith99&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhamith99&theme=tokyonight&utcOffset=5.5" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhamith99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhamith99&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -195,10 +188,6 @@ fun_facts:
 
 <div align="center">
 
-### 💭 Random Dev Wisdom
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/d-m-dhamith-gunawardhana-252959241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -209,6 +198,6 @@ fun_facts:
 
 <sub>⚡ Open to Data Engineering internships and to working together on data and ML projects</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:8E2DE2&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhamith99/dhamith99/main/assets/footer.svg" width="100%" alt="Footer"/>
 
 </div>
